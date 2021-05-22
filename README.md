@@ -5,7 +5,7 @@
 
   <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
 
-- 💬 如果你对我感兴趣，可以加我[微信1819080149](mailto:) 进一步交流。
+- 💬 如果你对我感兴趣，可以加我微信：[1819080149]() 进一步交流。
 - 📫 我的邮箱: [1819080149@qq.com](mailto:1819080149@qq.com);
 - 📝 [我的掘金(开源社区)主页](https://juejin.cn/user/1996368846533672)
 
