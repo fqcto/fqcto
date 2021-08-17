@@ -17,22 +17,11 @@
 <code><img height="20" src="https://cdn.docschina.org/home/logo/react.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://lc-gold-cdn.xitu.io/73e856b07f83b4231c1e.png?imageView2/2/w/200/h/64/q/85/format/webp/interlace/1"></code>
-
 <br />
 
-
- 
-
 <!-- **开源UI组件库:**
-
 [![Readme Card](http://www.canuse.top/img/canuse.f9aa9054.png)](http://www.canuse.top/#/guide/intro/index)
-
 <br /> -->
-
-
- 
-----------
-
 <!-- 
 😉 **我的自学之路:**
 <details style="cursor: pointer;">
@@ -107,9 +96,6 @@
 </div>
 </details>
 -->
-
-----------
-
 <!--
 ✍️ **我的文章:**
 <details style="cursor: pointer;">
@@ -140,10 +126,6 @@
   </div>
 </details>
 -->
-
-
-
-----------
 <!-- 
 
 🥰 **社区粉丝:**
