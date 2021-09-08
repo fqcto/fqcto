@@ -19,7 +19,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://cdn.docschina.org/home/logo/react.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://webpack.docschina.org/favicon.f326220248556af65f41.ico"></code>
+<code><img height="20" src="https://resource.oss.yatiku.com/front/202109/png/387028_1631089614786.png"></code>
 <br />
 
 <!-- **开源UI组件库:**
