@@ -3,7 +3,7 @@
 <br />
 
 
-  <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
+  <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/fqcto/images/blogs/picture/code.gif" width="430" height="100%" />
 
 - 💬 如果你对我感兴趣，可以加我微信：[1819080149](https://resource.oss.yatiku.com/front/202108/jpg/889665_1629194036257.jpg) 进一步交流。
 - 📫 我的邮箱: [1819080149@qq.com](mailto:1819080149@qq.com);
