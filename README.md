@@ -9,8 +9,8 @@
 - 📫 我的邮箱: [1819080149@qq.com](mailto:1819080149@qq.com);
 - 📝 [我的掘金主页](https://juejin.cn/user/1996368846533672)
 - 📝 [我的码云主页](https://gitee.com/fqcto)
-- 📝 [我的组件库文档主页](http://www.canuse.top)
-- 📝 [我的博客主页](http://1996f.cn)
+- 📝 [我的组件库文档主页]([http://www.canuse.top](https://canuse-ui.github.io/canuse))
+###- 📝 [我的博客主页](http://1996f.cn)
 
 **技术栈 与 开发工具:**
 <code><img height="20" src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2F3275d9293f0c89cd5b3cd89627d4edcc14aad3ec1f48-iaknqN_fw658&refer=http%3A%2F%2Fhbimg.b0.upaiyun.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1620987393&t=2ea859b63f230f149d6bcaf555ea40b3"></code>
